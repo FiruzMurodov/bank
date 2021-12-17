@@ -9,7 +9,7 @@ type Status string
 const (
 	StatusOk Status = "OK"
 	StatusFail Status = "Fail"
-	StatusInProgress Status = "INPROGRESS"
+	StatusInProgress Status = "INPROGRESSSS"
 )
 type Payment struct{
 	ID int
